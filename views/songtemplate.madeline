@@ -1,0 +1,8 @@
+<head>
+#title#
+</head>
+<body>
+<header>#album#</header>
+#albumArt#
+<h2>#tracks#</h2>
+</body>
